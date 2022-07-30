@@ -1,9 +1,10 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
-- 🔭 I'm currently studying on Faculty of Engineering.
-
+- 😄 My name is: Phatnarin Saewang
+- ⚡ Student id: 63364635
+- 🤭 Developer software
+- 🖥️ Write code in C language and Python
+- 🌈ิ Electronics for Computer Engineering,Software system development and website creation
 ## Developer Tech
 
 ### Frameworks 
@@ -22,7 +23,7 @@
 
 </p>
 
-### Languages 
+### Languagesskill to program in different language 
 <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -30,6 +31,14 @@
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="#">
+    <img src="svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
